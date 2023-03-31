@@ -25,4 +25,4 @@
 ### Steps
     - Create your main scss file (i.e. main.scss) put then save.
     - VSCODE will map and create a css file for you (which you will use for wp_enqueue) and it updates live.
-    - To include other scss files to your main file use @import (i.e. @import 'path/to/folder/block_acf-accordion',)
+    - To include other scss files to your main file use @import (i.e. @import 'path/to/folder/block_acf-accordion';) then put it on the top of your main scss file.
