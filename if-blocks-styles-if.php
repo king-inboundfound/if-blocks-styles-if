@@ -9,7 +9,6 @@
  * Text Domain: if-blocks-styles-if
  */
 if (!defined('ABSPATH')) { return; }
-
 function ifBlocksEnqueueScriptsIf() {
   wp_enqueue_style('if-blocks-styles-if', plugin_dir_url(__FILE__) . 'assets/css/style.css',
     array(), filemtime(__DIR__ . '/assets/css/style.css'));

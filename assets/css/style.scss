@@ -1,2 +1,7 @@
-.acc-upper-text 
-    color: red;
+$color_1: #b7a49c;
+$color_2: #33658a;
+$font-family_1: Museo Slab, Roboto Slab, sans-serif;
+* {
+	font-family: $font-family_1;
+}
+@import 'blocks/block_acf-accordion', 'blocks/block_acf-subnav-menu', 'blocks/block_acf-videocard';

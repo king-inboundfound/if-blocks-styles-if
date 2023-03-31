@@ -1,0 +1,29 @@
+.ibf-accordion-advanced {
+	.accordionjs {
+		.acc_section {
+			>.acc_head {
+				.accordion_icon {
+					min-width: 20px;
+					width: 20px;
+					min-height: 20px;
+					height: 20px;
+					flex-basis: unset;
+				}
+			}
+			.acc_head {
+				padding: 0 !important;
+			}
+		}
+	}
+	.acc_active {
+		.acc-upper-text {
+			color: $color_2;
+		}
+	}
+}
+.acc_content {
+	p {
+		margin: 0;
+		font-size: 16px;
+	}
+}

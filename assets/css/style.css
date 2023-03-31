@@ -1,38 +1,39 @@
 * {
-    font-family: Museo Slab, Roboto Slab, sans-serif;
+  font-family: Museo Slab, Roboto Slab, sans-serif;
 }
-/* IF nav menu */
-#ibf-on-page-subnavblock_64259b9e4dafd a {
-    color: #b7a49c;
-    font-size: 16px;
-    letter-spacing: 2px;
-    font-weight: 700;
-    padding: 20px 18px;
-    border: none;
-}
-#ibf-on-page-subnavblock_64259b9e4dafd a:hover {
-    color: #33658a;
-}
-/* IF Video Card */
-.ibf-video-card a {
-    color: #33658a;
-    text-align: center !important;
-}
-/* IF accordion-advanced */
+
 .ibf-accordion-advanced .accordionjs .acc_section > .acc_head .accordion_icon {
-    min-width: 20px;
-    width: 20px;
-    min-height: 20px;
-    height: 20px;
-    flex-basis: unset;
-}
-.ibf-accordion-advanced .acc_active .acc-upper-text {
-    color: #33658a;
+  min-width: 20px;
+  width: 20px;
+  min-height: 20px;
+  height: 20px;
+  flex-basis: unset;
 }
 .ibf-accordion-advanced .accordionjs .acc_section .acc_head {
-    padding: 0 !important;
+  padding: 0 !important;
 }
+.ibf-accordion-advanced .acc_active .acc-upper-text {
+  color: #33658a;
+}
+
 .acc_content p {
-    margin: 0;
-    font-size: 16px;
+  margin: 0;
+  font-size: 16px;
 }
+
+#ibf-on-page-subnavblock_64259b9e4dafd a {
+  color: #b7a49c;
+  font-size: 16px;
+  letter-spacing: 2px;
+  font-weight: 700;
+  padding: 20px 18px;
+  border: none;
+}
+#ibf-on-page-subnavblock_64259b9e4dafd a:hover {
+  color: #33658a;
+}
+
+.ibf-video-card a {
+  color: #33658a;
+  text-align: center !important;
+}/*# sourceMappingURL=style.css.map */
