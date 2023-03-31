@@ -7,8 +7,8 @@
         - Font Family
 
 ### Naming Conventions for .scss files
-Should correspond to the type of block:
-    - WP Core Blocks
+    Should correspond to the type of block:
+        - WP Core Blocks
 
 ### Folders & scss files
     1. Blocks
